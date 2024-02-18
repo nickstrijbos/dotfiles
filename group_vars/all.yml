@@ -1,0 +1,31 @@
+default_roles:
+  - system
+  - go
+  # - aws-cli
+  # - azure-cli
+  # - discord
+  # - docker
+  # - git
+  # - github-cli
+  # - helm
+  # - httpie
+  # - i3
+  # - jetbrains
+  # - jsonnet
+  # - k9s
+  # - kind
+  # - kitty
+  # - knative-client
+  # - kubectl
+  # - lazydocker
+  # - lazygit
+  # - lens
+  # - neovim
+  # - nodejs
+  # - nvm
+  # - oh-my-tmux
+  # - oh-my-zsh
+  # - postman
+  # - ssh
+  # - tmux
+  # - zsh
